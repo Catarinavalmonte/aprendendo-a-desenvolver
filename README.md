@@ -1,3 +1,3 @@
 # aprendendo a desenvolver
 
-ola mundo, estou aprendendo a desenvolver para trazer a super ideia bilionaria ao mundo do valmonte bank 
+olá mundo, estou aprendendo a desenvolver para trazer a super ideia bilionaria do valmonte bank ao mundo
